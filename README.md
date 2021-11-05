@@ -39,7 +39,7 @@ sudo dnf install \
 ```
 * now you need to refreash the repos:
 ```
-sudo dnf group update core
+sudo dnf groupupdate core
 ```
 
 # Packages:
